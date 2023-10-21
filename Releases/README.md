@@ -45,6 +45,11 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/fec1aba2-fab0-41bb-ba6a-12ee7ec5aecc)
 
 
+# Born Aug 03 2004
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/76122004-8ce2-44f0-b5c4-1bcfc91f9d2e)
+
+
+
 # XYN Viewer
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
 
