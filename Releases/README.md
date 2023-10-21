@@ -2,8 +2,7 @@
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/a03bf175-f906-4689-bde3-46d7d609e6fd)
 
 These are working with Wine running Linux Mint on `Linux 5.15.0-87-generic #97-Ubuntu SMP Mon Oct 2 21:09:21 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux`
-One thing that isn't working is AUDIO, maybe there's a way to run it, but i didn't find time to play more with the configuration.
-
+Even the audio is working, super ;-)
 
 For some of them i found dates for the EXE files, which i'll place as a reference point in the time travel.
 
@@ -48,6 +47,8 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 # Born Aug 03 2004
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/76122004-8ce2-44f0-b5c4-1bcfc91f9d2e)
 
+# Hoodlum and TiTAN Feb 6 2005
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/72931956-9904-4d35-90b6-465f5030f858)
 
 
 # XYN Viewer
