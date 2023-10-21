@@ -1,6 +1,7 @@
 
 # Time Travel - Demoscene times
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/e1ea0822-e1ab-421b-87ef-0ba8e49e7514)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/7868a05d-0797-4a09-ac4e-512be577b376)
+
 
 Travelling to ~2005, when i first met with building OpenGL powered applications.
 These were my first attempts to realtime rendering, and i found a lot of influence from demoscene projects these days.
