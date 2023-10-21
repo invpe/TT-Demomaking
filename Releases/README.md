@@ -14,7 +14,7 @@ Cant recall correctly, maybe this was to be used in some cracktro or nfo?
 
 I recall this one was used as a test bed in implementing various OpenGL features but also parsing and rendering .3DS files
 
-# EXCEED
+# XCD
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/fd463aac-c9de-4909-b847-54e39aed8311)
 
 Definitely part of some submission for use for NFO/TRO kind of work.
