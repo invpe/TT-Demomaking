@@ -27,8 +27,9 @@ Definitely part of some submission for use for NFO/TRO kind of work.
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/53c2450b-cfdd-4619-8379-c514b02d9d32)
 
 # Funny Sep 1 2004
-![Screenshot from 2023-10-21 22-28-23](https://github.com/invpe/TTDemoscene/assets/106522950/5e607067-d7d0-48e5-9caa-8143400292bf)
-![Screenshot from 2023-10-21 22-27-36](https://github.com/invpe/TTDemoscene/assets/106522950/ea4400cd-0b84-4908-8360-0f6fa9735998)
+![Screenshot from 2023-10-21 22-28-23](https://github.com/invpe/TT-Demomaking/assets/106522950/3880f26b-3ab9-4397-8146-a678b3107243)
+
+![Screenshot from 2023-10-21 22-27-36](https://github.com/invpe/TT-Demomaking/assets/106522950/a5ee9a25-053f-467b-b3f5-067414372dfb)
 
 This was a present to my friend, who asked to get this realtime "souvenir" delivered,
 i see i was good at doing Bitmap fonts here, but also some basic transitions 🙃
@@ -69,8 +70,7 @@ I missed some blending here, but overall like it after the years.
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/e44d6dbb-a4da-429f-9e59-6fec0b5a677a)
 
 # TiTAN once more Mar  6  2005
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/6001d94b-53fd-46e2-af63-25244530d154)
-
+![Screenshot from 2023-10-21 23-31-34](https://github.com/invpe/TT-Demomaking/assets/106522950/e0a49e5e-fc86-47cc-8f8e-28b4247a668a)
 
 # XYN Viewer
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
