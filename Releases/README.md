@@ -46,7 +46,7 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 
 
 # Some random fun
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/fec1aba2-fab0-41bb-ba6a-12ee7ec5aecc)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/43945a6c-5606-44cd-8d99-f58a18ec0499)
 
 
 # Born Aug 03 2004
@@ -62,7 +62,7 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 I missed some blending here, but overall like it after the years.
 
 # CzuCzu Mar 21  2008
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/cd8882b7-b1f5-4504-86d0-92e740f31ff0)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/cd8882b7-b1f5-4504-86d0-92e740f31ff0)
 
 # DNA Aug 04 2004
 ![image](https://github.com/invpe/TT-Demomaking/assets/106522950/c2c560f7-fec6-437b-a337-1484585ef67d)
