@@ -42,8 +42,7 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 
 
 # Fun with blending and some twists
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/45236bb0-23a3-4201-a297-6d129e06ba84)
-
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/794b4bbc-400c-4424-8e8f-86f74dc9bbc2)
 
 # Some random fun
 ![image](https://github.com/invpe/TT-Demomaking/assets/106522950/43945a6c-5606-44cd-8d99-f58a18ec0499)
