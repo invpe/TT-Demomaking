@@ -49,6 +49,7 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 
 # Hoodlum and TiTAN Feb 6 2005
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/72931956-9904-4d35-90b6-465f5030f858)
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/4ae78726-8a76-460c-91fd-878e7c31452a)
  
 # TiTAN  Feb 13  2005
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/05ffe557-e011-41b0-98e2-87cbc9c48e6a)
