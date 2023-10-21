@@ -49,8 +49,9 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 ![image](https://github.com/invpe/TT-Demomaking/assets/106522950/43945a6c-5606-44cd-8d99-f58a18ec0499)
 
 
-# Born Aug 03 2004
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/76122004-8ce2-44f0-b5c4-1bcfc91f9d2e)
+# Born Aug 03 2004 
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/27cb46e3-92cf-4d4d-999d-71540d4c4a4e)
+
 
 # Hoodlum and TiTAN Feb 6 2005
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/72931956-9904-4d35-90b6-465f5030f858)
