@@ -8,7 +8,7 @@ Watch out, you will not find super optimized demos here, these were my lessons t
 
 # Synopsis
 
-This Time Travel repository serves me as a tribute to the time spent in coding. Hell a lot of coding when i was around 23 yold.
+This Time Travel repository serves me as a tribute to the time spent in coding. Hell a lot of coding when i was around 20-23 yold.
 These basic demoscene things hooked me into Gamedev for a long time - some of these time travels you can also find on my github.
 However at some point in time i rememer working with groups like **Hoodlum**, but can't find my releases, gotta dig deeper!
 
