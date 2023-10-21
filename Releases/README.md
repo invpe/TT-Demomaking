@@ -35,6 +35,10 @@ Definitely part of some submission for use for NFO/TRO kind of work.
 This was a present to my friend, who asked to get this realtime "souvenir" delivered,
 i see i was good at doing Bitmap fonts here, but also some basic transitions 🙃
 
+# Deviance trainer Oct 30 2005
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/7a70ba7c-8fe1-40d3-93b7-2582db1b23e2)
+
+
 # XYN Viewer
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
 
