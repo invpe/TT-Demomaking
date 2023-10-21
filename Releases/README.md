@@ -21,7 +21,7 @@ Cant recall correctly, maybe this was to be used in some cracktro or nfo?
 I recall this one was used as a test bed in implementing various OpenGL features but also parsing and rendering .3DS files
 
 # XCD Oct 27 2005
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/fd463aac-c9de-4909-b847-54e39aed8311)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/112df706-3838-4d85-9341-ca0d8d22f6c4)
 
 Definitely part of some submission for use for NFO/TRO kind of work.
  
@@ -37,7 +37,8 @@ This was a present to my friend, who asked to get this realtime "souvenir" deliv
 i see i was good at doing Bitmap fonts here, but also some basic transitions 🙃
 
 # Deviance trainer Oct 30 2005
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/7a70ba7c-8fe1-40d3-93b7-2582db1b23e2)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/099ff051-71cd-4d15-a2fd-9bfd4c27a7fc)
+
 
 # Fun with blending and some twists
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/45236bb0-23a3-4201-a297-6d129e06ba84)
@@ -69,7 +70,8 @@ I missed some blending here, but overall like it after the years.
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/e1f27f45-2e3f-4ddb-886d-3ca649bd78bf)
 
 # RZR cracktro 
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/e44d6dbb-a4da-429f-9e59-6fec0b5a677a)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/ea87201f-5ecf-4fcb-94d7-c299a9b9aba0)
+
 
 # TiTAN once more Mar  6  2005
 ![Screenshot from 2023-10-21 23-31-34](https://github.com/invpe/TT-Demomaking/assets/106522950/e0a49e5e-fc86-47cc-8f8e-28b4247a668a)
