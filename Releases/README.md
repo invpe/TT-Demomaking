@@ -28,6 +28,13 @@ Definitely part of some submission for use for NFO/TRO kind of work.
 # FLOW Aug 07 2004
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/53c2450b-cfdd-4619-8379-c514b02d9d32)
 
+# Funny Sep 1 2004
+![Screenshot from 2023-10-21 22-28-23](https://github.com/invpe/TTDemoscene/assets/106522950/5e607067-d7d0-48e5-9caa-8143400292bf)
+![Screenshot from 2023-10-21 22-27-36](https://github.com/invpe/TTDemoscene/assets/106522950/ea4400cd-0b84-4908-8360-0f6fa9735998)
+
+This was a present to my friend, who asked to get this realtime "souvenir" delivered,
+i see i was good at doing Bitmap fonts here, but also some basic transitions 🙃
+
 # XYN Viewer
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
 
