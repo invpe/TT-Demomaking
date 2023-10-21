@@ -82,7 +82,7 @@ I missed some blending here, but overall like it after the years.
 ![Screenshot from 2023-10-21 23-31-34](https://github.com/invpe/TT-Demomaking/assets/106522950/e0a49e5e-fc86-47cc-8f8e-28b4247a668a)
 
 # XYN Viewer
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/13971a4b-b13f-4037-8866-dacd0e00f33f)
 
 This at some point was a viewer to the models used in all the releases, from Demoscene forward.
 Cool to see it working today ;-)
