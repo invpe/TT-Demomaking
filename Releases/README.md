@@ -64,7 +64,8 @@ I missed some blending here, but overall like it after the years.
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/cd8882b7-b1f5-4504-86d0-92e740f31ff0)
 
 # DNA Aug 04 2004
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/88d384a2-4fe0-4a3a-a0a6-2104b42985f8)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/c2c560f7-fec6-437b-a337-1484585ef67d)
+
 
 # Xmass05 Dec 24 2005
 ![image](https://github.com/invpe/TT-Demomaking/assets/106522950/a403ec92-3816-4155-af9a-36053f1faebc)
