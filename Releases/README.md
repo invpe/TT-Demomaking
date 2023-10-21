@@ -56,6 +56,10 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 
 I missed some blending here, but overall like it after the years.
 
+# CzuCzu Mar 21  2008
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/cd8882b7-b1f5-4504-86d0-92e740f31ff0)
+
+
 # XYN Viewer
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/f8e48e23-c527-4708-8258-9609c353ebcf)
 
