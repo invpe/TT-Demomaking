@@ -5,7 +5,7 @@
 
 Travelling to ~2005, when i first met with building OpenGL powered applications.
 These were my first attempts to realtime rendering, and i found a lot of influence from demoscene projects these days.
-Watch out, you will not find super optimized demos here, these were my lessons to get into gamedev one day.
+Watch out, you will not find super optimized demos here, these were my lessons to get into ~~gamedev~~ advanced realtime rendering on GPU one day.
 
 # Synopsis
 
