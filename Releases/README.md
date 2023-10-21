@@ -1,4 +1,6 @@
 # WINE Working
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/a03bf175-f906-4689-bde3-46d7d609e6fd)
+
 These are working with Wine running Linux Mint on `Linux 5.15.0-87-generic #97-Ubuntu SMP Mon Oct 2 21:09:21 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux`
 One thing that isn't working is AUDIO, maybe there's a way to run it, but i didn't find time to play more with the configuration.
 
