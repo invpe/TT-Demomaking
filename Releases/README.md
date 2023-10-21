@@ -13,7 +13,6 @@ For some of them i found dates for the EXE files, which i'll place as a referenc
 
 Cant recall correctly, maybe this was to be used in some cracktro or nfo?
 
-
 # IMMERSE 
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/e2bb088d-0637-498e-9f6a-e51b8d701c56)
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/bdc762ec-0d58-493d-889f-fdd8f57215f7)
@@ -37,6 +36,9 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 
 # Deviance trainer Oct 30 2005
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/7a70ba7c-8fe1-40d3-93b7-2582db1b23e2)
+
+# Fun with blending and some twists
+![image](https://github.com/invpe/TTDemoscene/assets/106522950/45236bb0-23a3-4201-a297-6d129e06ba84)
 
 
 # XYN Viewer
