@@ -12,8 +12,9 @@ This Time Travel repository serves me as a tribute to the time spent in coding. 
 These basic demoscene things hooked me into Gamedev for a long time - some of these time travels you can also find on my github.
 However at some point in time i rememer working with groups like **Hoodlum**, but can't find my releases, gotta dig deeper!
 
+`A few moments later`
 I am pretty sure none of these were used in any release, since they were so basic, however they served me a huge ground for learning OpenGL at that time.
-Kudos to these times, what a time ride!
+Kudos to these times, what a ride to 2003!
 
 # Binaries
 
