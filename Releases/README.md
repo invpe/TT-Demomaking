@@ -57,7 +57,8 @@ i see i was good at doing Bitmap fonts here, but also some basic transitions ðŸ™
 ![image](https://github.com/invpe/TTDemoscene/assets/106522950/4ae78726-8a76-460c-91fd-878e7c31452a)
  
 # TiTAN  Feb 13  2005
-![image](https://github.com/invpe/TTDemoscene/assets/106522950/05ffe557-e011-41b0-98e2-87cbc9c48e6a)
+![image](https://github.com/invpe/TT-Demomaking/assets/106522950/7c99ce9c-7c2d-4bba-a3a7-cf0ea2611c29)
+
 
 I missed some blending here, but overall like it after the years.
 
